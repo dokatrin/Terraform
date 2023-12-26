@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY socket_client.html /usr/share/nginx/html/index.html
+COPY index.html /usr/share/nginx/html/index.html
